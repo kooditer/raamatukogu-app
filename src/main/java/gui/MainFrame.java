@@ -50,6 +50,7 @@ public class MainFrame extends JFrame {
                 //System.out.println(text);
                 textPanel.appendText(text);
                 System.out.println("ahaa");
+                System.out.println("eheee");
             }
         });
 
